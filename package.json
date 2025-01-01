@@ -1,0 +1,13 @@
+{
+  "name": "sandwich-bot",
+  "version": "1.0.0",
+  "description": "A telegram bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node telebot.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
